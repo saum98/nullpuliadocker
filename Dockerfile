@@ -2,5 +2,5 @@
 FROM ubuntu:16.04
 MAINTAINER Madhu Akula <madhu.akula@hotmail.com>
 
-RUN apt-get update && apt-get install curl \
+RUN apt-get update && apt-get install null \
             htop -y
